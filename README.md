@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jackle12533@gmail.com**
 
-- 👨‍💻 Some of my favorite projects are available at [**jackle.com**](http://jackle.com)
+- 👨‍💻 Some of my favorite projects are available at [**nietztein.github.io**](https://nietztein.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
